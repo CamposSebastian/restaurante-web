@@ -1,0 +1,50 @@
+body {
+  background-image: url("../imagenes/registro.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 900px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  margin-right: 400px;
+  margin-left: 550px;
+}
+
+label {
+  width: 1000px;
+  height: 17px;
+}
+
+div {
+  font-family: "Arial";
+  font-size: 20px;
+  backdrop-filter: blur(50px);
+  width: 70%;
+  padding: 50px 50px; 
+  margin: 0 auto;
+  border: 5px solid #555;
+  outline: none;
+  border-radius: 3px;
+  box-sizing: border-box,align:"center";
+  content: "";
+  clear: both;  
+}
+
+
+h2 {
+  text-align: center;
+  color: rgb(25, 255, 255);
+}
+
+form {
+  color: rgb(255, 255, 255);
+}
+
+input:focus {
+  background-color: lightblue;
+}
+
+#a1{
+  width: 160px;
+  height: 17px;
+}

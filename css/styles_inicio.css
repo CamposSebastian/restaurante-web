@@ -1,0 +1,25 @@
+#styles1 {
+      backdrop-filter: blur(50px);
+      width: 50%;
+      margin: 0 auto;
+      border: 5px solid #555;
+}
+
+
+h3 {
+    text-align:center;
+}
+
+#img {
+      background-image: url('../imagenes/inicio.jpg'); 
+      background-size: cover;
+}
+
+#timag {
+    max-width: 1px;
+    height: 10px;
+}
+
+h3 {
+    text-align:center;
+}
